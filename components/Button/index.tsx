@@ -6,6 +6,7 @@ import {
   PressableProps,
 } from "react-native";
 import FontAwesome from "@expo/vector-icons/FontAwesome";
+import { Ionicons } from "@expo/vector-icons";
 
 interface ButtonProps {
   label: string;
